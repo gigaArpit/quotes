@@ -1,0 +1,26 @@
+baseURL = "https://quotes.microgeek.dev/"
+languageCode = "en"
+title = "Quotes"
+theme = "yinyang"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[params]
+mainSections = ["posts"]
+headTitle = "Quotes"
+author = "Arpit"
+description = "Arpit's Quotes Collection"
+
+[[params.socials]]
+name = "Home"
+link = "https://quotes.microgeek.dev/"
+[[params.socials]]
+name = "Twitter"
+link = "https://x.com/gigaArpit"
+[[params.socials]]
+name = "GitHub"
+link = "https://github.com/gigaArpit"
