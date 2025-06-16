@@ -1,5 +1,5 @@
 +++
-title = "What I cannot create, I do not understand"
+title = "Knowledge that lacks generative capability is fragile and incomplete"
 date = "2025-06-16T08:49:37.000Z"
 +++
 
@@ -10,6 +10,6 @@ structure, dependencies, and dynamics.
 If I cannot construct it from first principles, I do not possess true
 understanding. What remains is surface familiarity or pattern mimicry.
 
-> Knowledge that lacks generative capability is fragile and incomplete.
+> What I cannot create, I do not understand.
 
 ~ Richard Feyman
